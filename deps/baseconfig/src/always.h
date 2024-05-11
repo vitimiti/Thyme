@@ -16,6 +16,8 @@
 #ifndef BASE_ALWAYS_H
 #define BASE_ALWAYS_H
 
+#include <string.h>
+
 #include "config.h"
 #include "targetver.h"
 

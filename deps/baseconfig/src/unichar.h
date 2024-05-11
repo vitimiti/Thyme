@@ -22,6 +22,7 @@
 
 #ifdef BUILD_WITH_ICU
 #include <unicode/uchar.h>
+#include <unicode/ustring.h>
 typedef UChar unichar_t;
 #define U_CHAR(str) (u##str)
 #elif defined _WIN32
