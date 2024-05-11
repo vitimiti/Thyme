@@ -36,3 +36,5 @@ CPackSourceConfig.cmake
 *.bak
 thumbs.db
 *.aps
+.idea/
+cmake-build*/
